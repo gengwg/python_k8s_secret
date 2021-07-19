@@ -1,4 +1,4 @@
-# hello_secret
+# hello_k8s_secret_python
 
 Deploy Kubernetes secrets to your namespace, and use it in your Python app.
 
